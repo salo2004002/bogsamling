@@ -15,7 +15,7 @@ public class Main {
         library.addBook(book2);
         library.addBook(book3);
 
-
+//
 //        library.printBooks();
 //        System.out.println();
 //        System.out.println("Antal bøger: " + library.getNumberOfBooks());
